@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=fa1505&text=Samuel%20Costa&fontColor=ffff&fontAlignY=38&textBg=false&animation=twinkling"/>
+
 # Olá 👋, Eu sou o Samuel Costa
 
 # Sobre
@@ -20,3 +22,5 @@ Cursando Análise e Desenvolvimento de Sistemas na Fatec Franca.
 
 # Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fa1505&fontColor=ffff&fontAlignY=38&textBg=false&animation=twinkling&section=footer"/>
