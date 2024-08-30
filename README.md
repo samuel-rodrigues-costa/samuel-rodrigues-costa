@@ -1,8 +1,8 @@
-## Olá 👋, Eu sou o Samuel Costa
+# Olá 👋, Eu sou o Samuel Costa
 
-## Sobre
+# Sobre
 Cursando Análise e Desenvolvimento de Sistemas na Fatec Franca.
-## Habilidades
+# Habilidades
 [![]()]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -15,5 +15,5 @@ Cursando Análise e Desenvolvimento de Sistemas na Fatec Franca.
 [![]()]()
 [![]()]()
 
-## Contato
+# Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
