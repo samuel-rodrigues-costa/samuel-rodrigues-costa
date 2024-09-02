@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=2DFF03&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Samuel+Costa.;Sou+Analista+de+Dados.;E+estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas!)](https://git.io/typing-svg)
 
-# Sobre
+# 📝 Sobre: 
 - Atualmente estudante do curso de Análise e Desenvolvimento de Sistemas na instituição Fatec Franca Dr. Thomaz Novelino.
 - Conhecimentos em Python, SQL, Power BI e serviços AWS com foco em análise de dados. 
 - Estagiário Data Engineer na Compass Oul.
 
-# Habilidades
+# 💻 Habilidades:
 [![]()]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -23,7 +23,7 @@
 [![]()]()
 [![]()]()
 
-# Contato
+# 📞 Contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2dff03&section=footer"/>
