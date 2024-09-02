@@ -23,4 +23,4 @@ Cursando Análise e Desenvolvimento de Sistemas na Fatec Franca.
 # Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=2dff03&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2dff03&section=footer"/>
