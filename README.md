@@ -1,5 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=fa1505&text=Samuel%20Costa&fontColor=ffff&fontAlignY=38&textBg=false&animation=twinkling"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=195874&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Samuel+Costa.;Sou+Analista+de+Dados.;E+estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas!)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=samuel-rodrigues-costa&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&title_color=5c1bf5&text_color=02c931&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-rodrigues-costa&layout=compact&hide_border=true&title_color=5c1bf5&text_color=02c931&bg_color=0d1117" />
+</div>
+
 # Olá 👋, Eu sou o Samuel Costa
 
 # Sobre
